@@ -6,6 +6,12 @@ This document provides an overview of the Treasury Smart Contract, designed for 
 ## Contract Overview
 The Treasury contract is responsible for handling ERC20 tokens, distributing funds, swapping tokens, and aggregating yields. It serves as a central point for managing interactions with different DeFi protocols.
 
+## Diagram
+![Treasury Contract Diagram](./taskdigram.png) 
+<br>using digrams.net
+
+![Treasury Contract Diagram](./digramtask.png) using dall-e
+
 ## Key Functionalities
 
 ### Deposit Function (`deposit`)
