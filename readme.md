@@ -58,6 +58,9 @@ The Treasury contract is responsible for handling ERC20 tokens, distributing fun
 ## Integration with Uniswap
 The contract integrates with Uniswap for token swapping, utilizing the `IUniswapV2Router02` interface. This allows the Treasury to execute token swaps as part of its fund management strategy.
 
+## Deployment
+The contract is already configured to use mumbai
+
 ## Security Aspects
 TODO
 
